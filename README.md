@@ -7,3 +7,4 @@ This repo lists all my preferred sets of commands and configurations to setup a 
 |[VSCode](./vscode/README.md) | VSCode setup |
 |[shell](./shell/README.md) | Shell setup |
 |[git](./git/README.md) | Shell setup |
+|[minikube](./minikube/README.md) | Minikube setup |
