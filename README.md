@@ -9,3 +9,4 @@ This repo lists all my preferred sets of commands and configurations to setup a 
 |[git](./git/README.md) | Shell setup |
 |[minikube](./minikube/README.md) | Minikube setup |
 |[github](./github/README.md) | Github setup |
+|[java](./java/README.md) | Java setup |
